@@ -8,6 +8,9 @@ This project aims to develop a robust data extraction and storage system for his
 Developed a web scraping solution using R to systematically extract historical options data from the CBOE website.
 Customized the scraping script to target the options data of 33 specified ETFs.
 
+![image](https://github.com/kantrishav/Options-Historical-Data-Extraction-and-DatabaseUsing-Google-Cloud-and-R/assets/28995985/a4c608ff-9d1a-4ef1-97d4-ef75c473b5b4)
+
+
 # Data Cleaning and Transformation:
 
 Implemented data cleaning and transformation procedures in R to ensure the accuracy and integrity of the extracted options data.
