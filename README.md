@@ -1,6 +1,8 @@
 # Option-Historical-Data-Extraction-and-Using-Google-Cloud-and-R
 This project aims to develop a robust data extraction and storage system for historical options data related to 33 Exchange Traded Funds (ETFs). The data will be sourced from the Chicago Board Options Exchange (CBOE) website, processed using the R programming language, and stored in a Google Cloud SQL database for efficient analysis and retrieval.
 
+![image](https://github.com/kantrishav/Options-Historical-Data-Extraction-and-DatabaseUsing-Google-Cloud-and-R/assets/28995985/dfcb44e8-39f2-46bb-8520-c1254a7a5f93)
+
 # Data Extraction from CBOE:
 
 Developed a web scraping solution using R to systematically extract historical options data from the CBOE website.
